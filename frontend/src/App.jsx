@@ -9,7 +9,7 @@
  import Login from './pages/Login'
  import PlaceOrder from './pages/PlaceOrder'
  import Orders from './pages/Orders'
- import Navbar from '/components/Navbar'
+ import Navbar from './components/Navbar'
 
  
  const App = () => {
